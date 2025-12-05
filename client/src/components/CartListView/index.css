@@ -1,0 +1,16 @@
+.cart-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+
+.empty-cart-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.empty-cart-message {
+  font-size: 18px;
+  color: #64748b;
+  font-family: "Roboto", sans-serif;
+}

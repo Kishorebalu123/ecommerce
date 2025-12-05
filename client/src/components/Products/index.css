@@ -1,0 +1,7 @@
+.product-sections {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 94vw;
+  max-width: 1200px; /* Adjust as needed */
+}
